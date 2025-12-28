@@ -1,649 +1,649 @@
-Right B-SYMPTOM
-capsular I-SYMPTOM
-putamenal I-SYMPTOM
-hemorrhage I-SYMPTOM
-. O
+Right
+capsular
+putamenal
+hemorrhage
+.
 
-hypertension B-SYMPTOM
-. O
+hypertension
+.
 
-Mrs. O
-Dua O
-is O
-a O
-34 O
-year O
-old O
-white O
-female O
-with O
-an O
-unclear O
-history O
-of O
-hypertension B-SYMPTOM
-for O
-at O
-least O
-five O
-years O
-. O
+Mrs.
+Dua
+is
+a
+34
+year
+old
+white
+female
+with
+an
+unclear
+history
+of
+hypertension
+for
+at
+least
+five
+years
+.
 
-She O
-was O
-in O
-her O
-usual O
-state O
-of O
-health O
-until O
-around O
-12:40 O
-on O
-October O
-19 O
-, O
-when O
-while O
-on O
-the O
-phone O
-, O
-started O
-to O
-have O
-difficulty B-SYMPTOM
-in I-SYMPTOM
-talking I-SYMPTOM
-. O
+She
+was
+in
+her
+usual
+state
+of
+health
+until
+around
+12:40
+on
+October
+19
+,
+when
+while
+on
+the
+phone
+,
+started
+to
+have
+difficulty
+in
+talking
+.
 
-Her O
-speech O
-became O
-slurred B-SYMPTOM
-, O
-this O
-was O
-followed O
-a O
-few O
-seconds O
-after O
-by O
-weakness B-SYMPTOM
-and I-SYMPTOM
-numbness I-SYMPTOM
-of I-SYMPTOM
-her I-SYMPTOM
-arm I-SYMPTOM
-and I-SYMPTOM
-leg I-SYMPTOM
-. O
+Her
+speech
+became
+slurred
+,
+this
+was
+followed
+a
+few
+seconds
+after
+by
+weakness
+and
+numbness
+of
+her
+arm
+and
+leg
+.
 
-She O
-did O
-not O
-complain O
-of O
-headache B-SYMPTOM
-, O
-diplopia B-SYMPTOM
-, O
-or O
-any B-SYMPTOM
-other I-SYMPTOM
-neurological I-SYMPTOM
-symptoms I-SYMPTOM
-. O
+She
+did
+not
+complain
+of
+headache
+,
+diplopia
+,
+or
+any
+other
+neurological
+symptoms
+.
 
-She O
-was O
-seen O
-at O
-A O
-Memorial O
-Hospital O
-where O
-her O
-blood O
-pressure O
-was O
-measured O
-at O
-240/120 O
-and O
-was O
-found O
-to O
-have O
-a B-SYMPTOM
-mild I-SYMPTOM
-left I-SYMPTOM
-hemiparesis I-SYMPTOM
-. O
+She
+was
+seen
+at
+A
+Memorial
+Hospital
+where
+her
+blood
+pressure
+was
+measured
+at
+240/120
+and
+was
+found
+to
+have
+a
+mild
+left
+hemiparesis
+.
 
-She O
-was O
-then O
-transferred O
-to O
-Ro O
-Woodma O
-Healthcare O
-for O
-further B-TREATMENT
-management I-TREATMENT
-. O
+She
+was
+then
+transferred
+to
+Ro
+Woodma
+Healthcare
+for
+further
+management
+.
 
-She O
-does O
-not O
-smoke O
-, O
-does O
-not O
-use O
-birth B-TREATMENT
-control I-TREATMENT
-pills I-TREATMENT
-, O
-does O
-not O
-use O
-drugs O
-. O
+She
+does
+not
+smoke
+,
+does
+not
+use
+birth
+control
+pills
+,
+does
+not
+use
+drugs
+.
 
-Father O
-and O
-brother O
-died O
-of O
-PE B-SYMPTOM
-. O
+Father
+and
+brother
+died
+of
+PE
+.
 
-A O
-34 O
-year O
-old O
-white O
-female O
-lying O
-in O
-bed O
-, O
-anxious B-SYMPTOM
-; O
-blood O
-pressure O
-of O
-220/120 O
-, O
-afebrile B-SYMPTOM
-. O
+A
+34
+year
+old
+white
+female
+lying
+in
+bed
+,
+anxious
+;
+blood
+pressure
+of
+220/120
+,
+afebrile
+.
 
-no O
-lesions B-SYMPTOM
-. O
+no
+lesions
+.
 
-normocephalic O
-, O
-atraumatic B-SYMPTOM
-, O
-anicteric B-SYMPTOM
-. O
+normocephalic
+,
+atraumatic
+,
+anicteric
+.
 
-supple O
-, O
-no O
-bruits B-SYMPTOM
-. O
+supple
+,
+no
+bruits
+.
 
-regular O
-rhythm O
-with O
-no O
-murmur B-SYMPTOM
-, O
-rub B-SYMPTOM
-or O
-gallop B-SYMPTOM
-. O
+regular
+rhythm
+with
+no
+murmur
+,
+rub
+or
+gallop
+.
 
-clear O
-to O
-auscultation O
-. O
+clear
+to
+auscultation
+.
 
-bowel O
-sounds O
-present O
-, O
-soft O
-, O
-nontender B-SYMPTOM
-, O
-nondistended B-SYMPTOM
-, O
-guaiac O
-negative O
-, O
-no O
-hepatosplenomegaly B-SYMPTOM
-. O
+bowel
+sounds
+present
+,
+soft
+,
+nontender
+,
+nondistended
+,
+guaiac
+negative
+,
+no
+hepatosplenomegaly
+.
 
-no O
-clubbing B-SYMPTOM
-, I-SYMPTOM
-cyanosis B-SYMPTOM
-or O
-edema B-SYMPTOM
-. O
+no
+clubbing
+,
+cyanosis
+or
+edema
+.
 
-Her O
-speech O
-was O
-fluent O
-with O
-no O
-phasic B-SYMPTOM
-or I-SYMPTOM
-praxic I-SYMPTOM
-problems I-SYMPTOM
-, O
-dysarthric B-SYMPTOM
-. O
+Her
+speech
+was
+fluent
+with
+no
+phasic
+or
+praxic
+problems
+,
+dysarthric
+.
 
-Visual O
-fields O
-were O
-full O
-to O
-confrontation O
-. O
+Visual
+fields
+were
+full
+to
+confrontation
+.
 
-Pupils O
-were O
-2 O
-millimeters O
-down O
-to O
-1 O
-millimeter O
-by O
-direct O
-and O
-consensual O
-stimuli O
-. O
+Pupils
+were
+2
+millimeters
+down
+to
+1
+millimeter
+by
+direct
+and
+consensual
+stimuli
+.
 
-V1 O
-through O
-V3 O
-, O
-diminished O
-light O
-touch O
-and O
-pinprick O
-in O
-the O
-left O
-side O
-. O
+V1
+through
+V3
+,
+diminished
+light
+touch
+and
+pinprick
+in
+the
+left
+side
+.
 
-There O
-was O
-a B-SYMPTOM
-left I-SYMPTOM
-central I-SYMPTOM
-facial I-SYMPTOM
-paresis I-SYMPTOM
-. O
+There
+was
+a
+left
+central
+facial
+paresis
+.
 
-Gag O
-was O
-symmetric O
-. O
+Gag
+was
+symmetric
+.
 
-There O
-was O
-a B-SYMPTOM
-left I-SYMPTOM
-arm I-SYMPTOM
-pronator I-SYMPTOM
-. O
+There
+was
+a
+left
+arm
+pronator
+.
 
-The O
-deep O
-tendon O
-reflexes O
-were O
-2+ O
-on O
-the O
-left O
-side O
-, O
-1+ O
-on O
-the O
-right O
-side O
-. O
+The
+deep
+tendon
+reflexes
+were
+2+
+on
+the
+left
+side
+,
+1+
+on
+the
+right
+side
+.
 
-On O
-sensory O
-exam O
-there O
-was O
-a B-SYMPTOM
-mild I-SYMPTOM
-diminution I-SYMPTOM
-of I-SYMPTOM
-light I-SYMPTOM
-touch I-SYMPTOM
-, I-SYMPTOM
-pinprick I-SYMPTOM
-, I-SYMPTOM
-position I-SYMPTOM
-, I-SYMPTOM
-and I-SYMPTOM
-vibration I-SYMPTOM
-sense I-SYMPTOM
-in I-SYMPTOM
-the I-SYMPTOM
-left I-SYMPTOM
-side I-SYMPTOM
-. O
+On
+sensory
+exam
+there
+was
+a
+mild
+diminution
+of
+light
+touch
+,
+pinprick
+,
+position
+,
+and
+vibration
+sense
+in
+the
+left
+side
+.
 
-the O
-fine O
-motor O
-movements O
-of O
-the O
-left O
-hand O
-were O
-diminished B-SYMPTOM
-, O
-there O
-was O
-a B-SYMPTOM
-mild I-SYMPTOM
-dysmetria I-SYMPTOM
-on I-SYMPTOM
-the I-SYMPTOM
-left I-SYMPTOM
-side I-SYMPTOM
-to O
-finger O
-/ O
-nose O
-and O
-heel O
-/ O
-shin O
-. O
+the
+fine
+motor
+movements
+of
+the
+left
+hand
+were
+diminished
+,
+there
+was
+a
+mild
+dysmetria
+on
+the
+left
+side
+to
+finger
+/
+nose
+and
+heel
+/
+shin
+.
 
-The B-SYMPTOM
-walk I-SYMPTOM
-was I-SYMPTOM
-paretic I-SYMPTOM
-in I-SYMPTOM
-the I-SYMPTOM
-left I-SYMPTOM
-side I-SYMPTOM
-. O
+The
+walk
+was
+paretic
+in
+the
+left
+side
+.
 
-sodium O
-140 O
-, O
-potassium O
-4 O
-, O
-chloride O
-107 O
-, O
-CO2 O
-25.4 O
-, O
-BUN O
-9 O
-, O
-creatinine O
-.8 O
-, O
-blood O
-sugar O
-130 O
-. O
+sodium
+140
+,
+potassium
+4
+,
+chloride
+107
+,
+CO2
+25.4
+,
+BUN
+9
+,
+creatinine
+.8
+,
+blood
+sugar
+130
+.
 
-Uric O
-acid O
-4.7 O
-, O
-cholesterol O
-150 O
-, O
-triglycerides O
-74 O
-, O
-HDL O
-44 O
-, O
-LDL O
-91 O
-. O
+Uric
+acid
+4.7
+,
+cholesterol
+150
+,
+triglycerides
+74
+,
+HDL
+44
+,
+LDL
+91
+.
 
-Urine O
-and O
-serum O
-toxicology O
-screen O
-negative O
-. O
+Urine
+and
+serum
+toxicology
+screen
+negative
+.
 
-Thyroid O
-stimulation O
-hormone O
-1.9 O
-. O
+Thyroid
+stimulation
+hormone
+1.9
+.
 
-Dexamethasone O
-suppression O
-test O
-negative O
-with O
-a O
-cortisol O
-level O
-at O
-8 O
-a.m. O
-of O
-1.7 O
-. O
+Dexamethasone
+suppression
+test
+negative
+with
+a
+cortisol
+level
+at
+8
+a.m.
+of
+1.7
+.
 
-Twenty-four O
-urine O
-for O
-catecholamine O
-, O
-metanephrines O
-, O
-and O
-VMA O
-pending O
-at O
-the O
-time O
-of O
-discharge O
-. O
+Twenty-four
+urine
+for
+catecholamine
+,
+metanephrines
+,
+and
+VMA
+pending
+at
+the
+time
+of
+discharge
+.
 
-White O
-blood O
-cell O
-count O
-9.8 O
-, O
-hematocrit O
-44.1 O
-, O
-platelets O
-262 O
-, O
-prothrombin O
-time O
-10.4/ O
-10.3 O
-, O
-partial O
-thromboplastin O
-time O
-25.9 O
-. O
+White
+blood
+cell
+count
+9.8
+,
+hematocrit
+44.1
+,
+platelets
+262
+,
+prothrombin
+time
+10.4/
+10.3
+,
+partial
+thromboplastin
+time
+25.9
+.
 
-urinalysis O
-: O
+urinalysis
+:
 
-specific O
-gravity O
-125 O
-, O
-PH O
-6 O
-. O
+specific
+gravity
+125
+,
+PH
+6
+.
 
-Urine O
-culture O
-negative O
-. O
+Urine
+culture
+negative
+.
 
-Sedimentation O
-rate O
-2 O
-, O
-antithrombin O
-3 O
-. O
+Sedimentation
+rate
+2
+,
+antithrombin
+3
+.
 
-Protein O
-C O
-, O
-protein O
-S O
-and O
-plasminogen O
-level O
-within O
-normal O
-limits O
-. O
+Protein
+C
+,
+protein
+S
+and
+plasminogen
+level
+within
+normal
+limits
+.
 
-Electrocardiogram O
-: O
+Electrocardiogram
+:
 
-sinus O
-rhythm O
-at O
-116 O
-, O
-axis O
-of O
-23 O
-, O
-intervals O
-of O
-.14/ O
-.07/ O
-.42 O
-, O
-no O
-ST-segment B-SYMPTOM
-abnormalities I-SYMPTOM
-. O
+sinus
+rhythm
+at
+116
+,
+axis
+of
+23
+,
+intervals
+of
+.14/
+.07/
+.42
+,
+no
+ST-segment
+abnormalities
+.
 
-Chest O
-x-ray O
-negative O
-. O
+Chest
+x-ray
+negative
+.
 
-Head O
-computerized O
-tomography O
-scan O
-on O
-10/19 O
-: O
-3 B-SYMPTOM
-centimeter I-SYMPTOM
-hyperdensity I-SYMPTOM
-within O
-the O
-right O
-putamenal O
-area O
-in O
-the O
-right O
-external O
-capsusle O
-consistent O
-with O
-intra-parenchymal B-SYMPTOM
-hematoma I-SYMPTOM
-with O
-mild B-SYMPTOM
-local I-SYMPTOM
-mass I-SYMPTOM
-effect I-SYMPTOM
-and O
-surrounding B-SYMPTOM
-edema I-SYMPTOM
-. O
+Head
+computerized
+tomography
+scan
+on
+10/19
+:
+3
+centimeter
+hyperdensity
+within
+the
+right
+putamenal
+area
+in
+the
+right
+external
+capsusle
+consistent
+with
+intra-parenchymal
+hematoma
+with
+mild
+local
+mass
+effect
+and
+surrounding
+edema
+.
 
-No O
-other O
-areas O
-of O
-hemorrhage B-SYMPTOM
-identified O
-. O
+No
+other
+areas
+of
+hemorrhage
+identified
+.
 
-Head O
-computerized O
-tomography O
-scan O
-of O
-10/23 O
-: O
+Head
+computerized
+tomography
+scan
+of
+10/23
+:
 
-the O
-area O
-of O
-hemorrhage B-SYMPTOM
-the O
-same O
-, O
-slightly B-SYMPTOM
-more I-SYMPTOM
-edema I-SYMPTOM
-and I-SYMPTOM
-mass I-SYMPTOM
-effect I-SYMPTOM
-. O
+the
+area
+of
+hemorrhage
+the
+same
+,
+slightly
+more
+edema
+and
+mass
+effect
+.
 
-Pulmonary O
-angiogram O
-: O
+Pulmonary
+angiogram
+:
 
-no O
-evidence O
-of O
-pulmonary B-SYMPTOM
-emboli I-SYMPTOM
-. O
+no
+evidence
+of
+pulmonary
+emboli
+.
 
