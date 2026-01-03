@@ -49,6 +49,7 @@ Physician Notetaker/
     1.  **Token Classification**: The BioBERT model predicts BIO tags (`B-SYMPTOM`, `I-TREATMENT`, etc.) for each token.
     2.  **Entity Extraction**: A custom post-processing function aggregates tokens into complete entity strings.
     3.  **Rule-Based Extraction**: Diagnosis and Prognosis are extracted using keyword matching heuristics (e.g., looking for "diagnosed with", "expected recovery") to complement the NER model.
+*   **Evaluation**: The model is evaluated using the **F1-score** (via `seqeval`) rather than standard loss. F1 is a more robust metric for token classification tasks, especially given the class imbalance (prevalence of "O" tags) inherent in NER.
 *   **Notebook**: `Notebooks/ner_training.ipynb`
 
 ### 2. Sentiment & Intent Analysis
